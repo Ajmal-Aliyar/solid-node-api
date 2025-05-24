@@ -1,6 +1,6 @@
 #  Scalable Backend Boilerplate
 
-A clean, scalable, and production-ready backend built with **Node.js**, **TypeScript**, **Express**, **InversifyJS**, and **MongoDB**. Designed to support complex applications with ease, this boilerplate embraces **SOLID principles**, **clean architecture**, and **modular structure** to ensure long-term maintainability.
+A clean, scalable, and production-ready backend built with **Node.js**, **TypeScript**, **Express**, **InversifyJS**, and **MongoDB**. Designed to support starter applications with ease, this boilerplate embraces **SOLID principles**, **clean architecture**, and **modular structure** to ensure long-term maintainability.
 
 
 ##  Why This Project Exists
